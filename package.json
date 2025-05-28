@@ -2,6 +2,7 @@
   "name": "grocery-store",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://bhagathk7.github.io/Grocery-Store-Frontend/",
   "description": "This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).",
   "main": "index.js",
   "scripts": {
@@ -38,7 +39,8 @@
     "@babel/core": "^7.26.10",
     "@babel/preset-env": "^7.26.9",
     "@babel/preset-react": "^7.26.3",
-    "babel-loader": "^10.0.0"
+    "babel-loader": "^10.0.0",
+    "gh-pages": "^6.3.0"
   },
   "eslintConfig": {
     "extends": [
